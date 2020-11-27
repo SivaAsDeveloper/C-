@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/9XFQNNWtPgcP9N8SgEhLSYzJsAXSlVEObc-WDRH1WLI=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/nnVXuNJHHvG2Ya40ZK68mdAKwS7oH6NexPPu-y2heFI=.hash",
       "Source": "\/home\/codespace\/workspace\/C-\/PizzaPlace\/PizzaPlace\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/PizzaPlace.Client.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/PizzaPlace.Client.dll.gz"
     },
@@ -261,7 +261,7 @@
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/bbpurUVV5m7eRlcYVb47qQortd1xnn0MGNhQDdXIgks=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/cqcsKa4HSANJs3KHWJ6Rhjebg6YekTUSaUOImghzGg4=.hash",
       "Source": "\/home\/codespace\/workspace\/C-\/PizzaPlace\/PizzaPlace\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/PizzaPlace.Client.pdb",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/PizzaPlace.Client.pdb.gz"
     },
@@ -291,7 +291,7 @@
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/WO--CaRpxnV6Su9O8x50_q6dzhRCDd0NlOBje7CG1JY=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/gjKp-G1W8JMAAIcE8nUscr8vcKDNvAFrB-Brvz0fHKQ=.hash",
       "Source": "\/home\/codespace\/workspace\/C-\/PizzaPlace\/PizzaPlace\/Client\/obj\/Debug\/netstandard2.1\/blazor\/blazor.boot.json",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/blazor.boot.json.gz"
     }

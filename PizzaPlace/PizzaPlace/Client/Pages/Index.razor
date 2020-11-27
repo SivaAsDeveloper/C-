@@ -10,7 +10,7 @@
         <div class="col">@pizza.Name</div>
         <div class="col">@pizza.Price</div>
         <div class="col">
-            <img src="@SpicinessImage(pizza.Spiciness)"
+            <img style="width: 40%;" src="@SpicinessImage(pizza.Spiciness)"
             alt="@pizza.Spiciness"/>
         </div>
         <div class="col">
@@ -108,7 +108,7 @@ for="name" >Name:
         }
         };
         private string SpicinessImage(Spiciness spiciness)=>
-        $"images/{spiciness.ToString().ToLower()}/.png";
+        $"images/{spiciness.ToString().ToLower()}.png";
         private void AddToBasket(Pizza pizza)
         {
             Console.WriteLine($"Added Pizza successfully{pizza.Name}");

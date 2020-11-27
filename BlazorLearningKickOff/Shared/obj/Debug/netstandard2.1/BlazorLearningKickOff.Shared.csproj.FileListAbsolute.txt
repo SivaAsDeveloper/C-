@@ -1,0 +1,9 @@
+/home/codespace/workspace/C-/BlazorLearningKickOff/Shared/bin/Debug/netstandard2.1/BlazorLearningKickOff.Shared.deps.json
+/home/codespace/workspace/C-/BlazorLearningKickOff/Shared/bin/Debug/netstandard2.1/BlazorLearningKickOff.Shared.dll
+/home/codespace/workspace/C-/BlazorLearningKickOff/Shared/bin/Debug/netstandard2.1/BlazorLearningKickOff.Shared.pdb
+/home/codespace/workspace/C-/BlazorLearningKickOff/Shared/obj/Debug/netstandard2.1/BlazorLearningKickOff.Shared.csprojAssemblyReference.cache
+/home/codespace/workspace/C-/BlazorLearningKickOff/Shared/obj/Debug/netstandard2.1/BlazorLearningKickOff.Shared.AssemblyInfoInputs.cache
+/home/codespace/workspace/C-/BlazorLearningKickOff/Shared/obj/Debug/netstandard2.1/BlazorLearningKickOff.Shared.AssemblyInfo.cs
+/home/codespace/workspace/C-/BlazorLearningKickOff/Shared/obj/Debug/netstandard2.1/BlazorLearningKickOff.Shared.csproj.CoreCompileInputs.cache
+/home/codespace/workspace/C-/BlazorLearningKickOff/Shared/obj/Debug/netstandard2.1/BlazorLearningKickOff.Shared.dll
+/home/codespace/workspace/C-/BlazorLearningKickOff/Shared/obj/Debug/netstandard2.1/BlazorLearningKickOff.Shared.pdb

@@ -2690,6 +2690,39 @@
         }
       },
       {
+        "HashCode": -1329969972,
+        "Kind": "Components.Component",
+        "Name": "BlazorLearningKickOff.Client.App",
+        "AssemblyName": "BlazorLearningKickOff.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorLearningKickOff.Client.App"
+        }
+      },
+      {
+        "HashCode": -155933763,
+        "Kind": "Components.Component",
+        "Name": "BlazorLearningKickOff.Client.App",
+        "AssemblyName": "BlazorLearningKickOff.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorLearningKickOff.Client.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorLearningKickOff.Client.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1968103348,
         "Kind": "Components.Component",
         "Name": "BlazorLearningKickOff.Client.Pages.Counter",
@@ -2785,39 +2818,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorLearningKickOff.Client.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1329969972,
-        "Kind": "Components.Component",
-        "Name": "BlazorLearningKickOff.Client.App",
-        "AssemblyName": "BlazorLearningKickOff.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorLearningKickOff.Client.App"
-        }
-      },
-      {
-        "HashCode": -155933763,
-        "Kind": "Components.Component",
-        "Name": "BlazorLearningKickOff.Client.App",
-        "AssemblyName": "BlazorLearningKickOff.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorLearningKickOff.Client.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorLearningKickOff.Client.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

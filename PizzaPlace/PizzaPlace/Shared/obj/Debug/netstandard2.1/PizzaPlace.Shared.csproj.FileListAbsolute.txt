@@ -1,0 +1,9 @@
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Shared/bin/Debug/netstandard2.1/PizzaPlace.Shared.deps.json
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Shared/bin/Debug/netstandard2.1/PizzaPlace.Shared.dll
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Shared/bin/Debug/netstandard2.1/PizzaPlace.Shared.pdb
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Shared/obj/Debug/netstandard2.1/PizzaPlace.Shared.csprojAssemblyReference.cache
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Shared/obj/Debug/netstandard2.1/PizzaPlace.Shared.AssemblyInfoInputs.cache
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Shared/obj/Debug/netstandard2.1/PizzaPlace.Shared.AssemblyInfo.cs
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Shared/obj/Debug/netstandard2.1/PizzaPlace.Shared.csproj.CoreCompileInputs.cache
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Shared/obj/Debug/netstandard2.1/PizzaPlace.Shared.dll
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Shared/obj/Debug/netstandard2.1/PizzaPlace.Shared.pdb

@@ -180,4 +180,14 @@ app {
         /* Never collapse the sidebar for wide screens */
         display: block;
     }
+    .red-background{
+        background-color: red;
+        color:white;
+    }
+    .yellow-background
+    {
+        background-color: yellow;
+        color: black;
+    }
+
 }

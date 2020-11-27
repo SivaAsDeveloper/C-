@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/xn7q4RvJocRQ02fLCY6FGCv_nTVUjW3VGdtBLs2WpHk=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/VssT0lmYjKVxqaEoVTlsiC_GZ_244zQUOGavvtawbxk=.hash",
       "Source": "\/home\/codespace\/workspace\/C-\/BlazorLearningKickOff\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/BlazorLearningKickOff.Client.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/BlazorLearningKickOff.Client.dll.br"
     },
@@ -161,6 +161,11 @@
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br"
     },
     {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/DIufgRJOuEnboKn5VjVfVx4KLVZHnHr718fUIjugWFc=.hash",
+      "Source": "\/home\/codespace\/workspace\/C-\/BlazorLearningKickOff\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/BlazorLearningKickOff.Shared.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/BlazorLearningKickOff.Shared.dll.br"
+    },
+    {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/bSgsT2x5xMvs8mara5wU_EJwcyHa9GVMU85HwhWcdWM=.hash",
       "Source": "\/home\/codespace\/workspace\/C-\/BlazorLearningKickOff\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.AspNetCore.Components.Web.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.br"
@@ -189,11 +194,6 @@
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=.hash",
       "Source": "\/home\/codespace\/workspace\/C-\/BlazorLearningKickOff\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Logging.Abstractions.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
-    },
-    {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/DIufgRJOuEnboKn5VjVfVx4KLVZHnHr718fUIjugWFc=.hash",
-      "Source": "\/home\/codespace\/workspace\/C-\/BlazorLearningKickOff\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/BlazorLearningKickOff.Shared.dll",
-      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/BlazorLearningKickOff.Shared.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash",
@@ -266,7 +266,7 @@
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ZWmk7L22NZ9-HXapvQSpTSOoIy9oJxXx5e-sKqF2edY=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/sizkE7GyPnAvr-TUSq8Lrs8IYP5pIjoFTQcHLdN6Q6I=.hash",
       "Source": "\/home\/codespace\/workspace\/C-\/BlazorLearningKickOff\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/BlazorLearningKickOff.Client.pdb",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/BlazorLearningKickOff.Client.pdb.br"
     },
@@ -296,7 +296,7 @@
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/RFbBJVwBEyeBXIDZJsjRaCF9NsQuz5MlCRh-3OmjbtQ=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/RvOtJ2H20Pi-3RGJszobGmNimlvzLPEIQ57_iEh2WEU=.hash",
       "Source": "\/home\/codespace\/workspace\/C-\/BlazorLearningKickOff\/Client\/obj\/Debug\/netstandard2.1\/blazor\/blazor.boot.json",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/blazor.boot.json.br"
     }

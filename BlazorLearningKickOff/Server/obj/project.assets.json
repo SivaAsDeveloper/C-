@@ -321,6 +321,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
+          "BlazorLearningKickOff.Components": "1.0.0",
           "BlazorLearningKickOff.Shared": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "3.2.1",
           "System.Net.Http.Json": "3.2.0"
@@ -330,6 +331,20 @@
         },
         "runtime": {
           "bin/placeholder/BlazorLearningKickOff.Client.dll": {}
+        }
+      },
+      "BlazorLearningKickOff.Components/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "3.1.5",
+          "Microsoft.AspNetCore.Components.Web": "3.1.5"
+        },
+        "compile": {
+          "bin/placeholder/BlazorLearningKickOff.Components.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlazorLearningKickOff.Components.dll": {}
         }
       },
       "BlazorLearningKickOff.Shared/1.0.0": {
@@ -895,6 +910,11 @@
       "type": "project",
       "path": "../Client/BlazorLearningKickOff.Client.csproj",
       "msbuildProject": "../Client/BlazorLearningKickOff.Client.csproj"
+    },
+    "BlazorLearningKickOff.Components/1.0.0": {
+      "type": "project",
+      "path": "../BlazorLearningKickOff.Components/BlazorLearningKickOff.Components.csproj",
+      "msbuildProject": "../BlazorLearningKickOff.Components/BlazorLearningKickOff.Components.csproj"
     },
     "BlazorLearningKickOff.Shared/1.0.0": {
       "type": "project",

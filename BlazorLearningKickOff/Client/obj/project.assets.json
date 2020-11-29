@@ -431,6 +431,20 @@
           "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll": {}
         }
       },
+      "BlazorLearningKickOff.Components/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "3.1.5",
+          "Microsoft.AspNetCore.Components.Web": "3.1.5"
+        },
+        "compile": {
+          "bin/placeholder/BlazorLearningKickOff.Components.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlazorLearningKickOff.Components.dll": {}
+        }
+      },
       "BlazorLearningKickOff.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
@@ -1514,6 +1528,11 @@
         "version.txt"
       ]
     },
+    "BlazorLearningKickOff.Components/1.0.0": {
+      "type": "project",
+      "path": "../BlazorLearningKickOff.Components/BlazorLearningKickOff.Components.csproj",
+      "msbuildProject": "../BlazorLearningKickOff.Components/BlazorLearningKickOff.Components.csproj"
+    },
     "BlazorLearningKickOff.Shared/1.0.0": {
       "type": "project",
       "path": "../Shared/BlazorLearningKickOff.Shared.csproj",
@@ -1522,6 +1541,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.1": [
+      "BlazorLearningKickOff.Components >= 1.0.0",
       "BlazorLearningKickOff.Shared >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 3.2.1",
       "Microsoft.AspNetCore.Components.WebAssembly.Build >= 3.2.1",
@@ -1553,6 +1573,9 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
+            "/home/codespace/workspace/C-/BlazorLearningKickOff/BlazorLearningKickOff.Components/BlazorLearningKickOff.Components.csproj": {
+              "projectPath": "/home/codespace/workspace/C-/BlazorLearningKickOff/BlazorLearningKickOff.Components/BlazorLearningKickOff.Components.csproj"
+            },
             "/home/codespace/workspace/C-/BlazorLearningKickOff/Shared/BlazorLearningKickOff.Shared.csproj": {
               "projectPath": "/home/codespace/workspace/C-/BlazorLearningKickOff/Shared/BlazorLearningKickOff.Shared.csproj"
             }

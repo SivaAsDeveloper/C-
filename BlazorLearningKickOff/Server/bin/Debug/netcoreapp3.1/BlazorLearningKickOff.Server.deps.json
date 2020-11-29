@@ -648,6 +648,7 @@
       },
       "BlazorLearningKickOff.Client/1.0.0": {
         "dependencies": {
+          "BlazorLearningKickOff.Components": "1.0.0",
           "BlazorLearningKickOff.Shared": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "3.2.1",
           "System.Net.Http.Json": "3.2.0"
@@ -657,6 +658,18 @@
         },
         "compile": {
           "BlazorLearningKickOff.Client.dll": {}
+        }
+      },
+      "BlazorLearningKickOff.Components/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "3.1.6",
+          "Microsoft.AspNetCore.Components.Web": "3.1.6"
+        },
+        "runtime": {
+          "BlazorLearningKickOff.Components.dll": {}
+        },
+        "compile": {
+          "BlazorLearningKickOff.Components.dll": {}
         }
       },
       "BlazorLearningKickOff.Shared/1.0.0": {
@@ -2431,6 +2444,11 @@
       "hashPath": "system.text.json.4.7.1.nupkg.sha512"
     },
     "BlazorLearningKickOff.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlazorLearningKickOff.Components/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

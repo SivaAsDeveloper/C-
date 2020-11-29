@@ -213,3 +213,6 @@
 /home/codespace/workspace/C-/BlazorLearningKickOff/Server/obj/Debug/netcoreapp3.1/BlazorLearningKickOff.Server.dll
 /home/codespace/workspace/C-/BlazorLearningKickOff/Server/obj/Debug/netcoreapp3.1/BlazorLearningKickOff.Server.pdb
 /home/codespace/workspace/C-/BlazorLearningKickOff/Server/obj/Debug/netcoreapp3.1/BlazorLearningKickOff.Server.genruntimeconfig.cache
+/home/codespace/workspace/C-/BlazorLearningKickOff/Server/bin/Debug/netcoreapp3.1/BlazorLearningKickOff.Components.dll
+/home/codespace/workspace/C-/BlazorLearningKickOff/Server/bin/Debug/netcoreapp3.1/BlazorLearningKickOff.Components.pdb
+/home/codespace/workspace/C-/BlazorLearningKickOff/Server/bin/Debug/netcoreapp3.1/mono_crash.21acb2ae56.0.json

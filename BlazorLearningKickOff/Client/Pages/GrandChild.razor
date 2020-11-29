@@ -1,0 +1,12 @@
+<h3>Grand Child</h3>
+<button class="btn btn-danger" @onclick="@Increment">Increment
+    
+</button>
+@code{
+    [CascadingParameter(Name = "gm")]
+    public CounterData gmData { get; set; }
+    public void Increment()
+    {
+        this.gmData.Count++;
+    }
+}

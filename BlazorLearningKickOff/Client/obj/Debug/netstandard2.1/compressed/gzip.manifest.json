@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/VssT0lmYjKVxqaEoVTlsiC_GZ_244zQUOGavvtawbxk=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/M6LW5Vexgth36YWNoax2DEJ0WYbIpO66TPB2FF2MbHQ=.hash",
       "Source": "\/home\/codespace\/workspace\/C-\/BlazorLearningKickOff\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/BlazorLearningKickOff.Client.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/BlazorLearningKickOff.Client.dll.gz"
     },
@@ -266,7 +266,7 @@
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/sizkE7GyPnAvr-TUSq8Lrs8IYP5pIjoFTQcHLdN6Q6I=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/GRPjaunXXa1sfL99AE6NYjwMmI5urcLC6TFLJApA94o=.hash",
       "Source": "\/home\/codespace\/workspace\/C-\/BlazorLearningKickOff\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/BlazorLearningKickOff.Client.pdb",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/BlazorLearningKickOff.Client.pdb.gz"
     },
@@ -296,7 +296,7 @@
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/RvOtJ2H20Pi-3RGJszobGmNimlvzLPEIQ57_iEh2WEU=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ua_TW5d_6tXDYpVcGlB47dRDX1e1MsTwrSXEzty5hoA=.hash",
       "Source": "\/home\/codespace\/workspace\/C-\/BlazorLearningKickOff\/Client\/obj\/Debug\/netstandard2.1\/blazor\/blazor.boot.json",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/blazor.boot.json.gz"
     }

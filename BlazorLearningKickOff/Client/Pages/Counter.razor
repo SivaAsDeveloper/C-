@@ -84,7 +84,7 @@ string backgroundColor="red-background";
 private void IncrementDate()=> Today=Today.AddDays(1);
 private void AutoIncrement()
 {
-    var timer=new Timer(
+    var timer=new System.Threading.Timer(
         callback: (_)=> {IncrementCount();this.StateHasChanged();},
         state:null,
         dueTime:TimeSpan.FromSeconds(1),

@@ -208,7 +208,6 @@
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=.hash
-/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/yBAh24b9XLtjouUiLJngCFKZ9wIYjG7HWXHqabGBQ54=.hash
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/oK1Bjv95fH_hSbogUkJE_xDAI203kJG6lL6Sm-NuPWg=.hash
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash
@@ -229,7 +228,6 @@
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/swaPqt6d4UZMcaXD8fDt51ZCkqO0RduonGD19xaGo_c=.hash
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
@@ -363,6 +361,8 @@
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/Razor/Pages/CustomerEntry.razor.g.cs
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/Razor/Pages/PizzaList.razor.g.cs
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/Razor/Pages/ShoppingBasket.razor.g.cs
-/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/cqXpKIjPW4MsM8cXHgqcEF9GqqV5tI0sDDpzqOadVzU=.hash
-/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/HT32foRfWqs9mzBYvmtO6R4KjuM-BdBv1pazcEzvcFA=.hash
-/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/LJeVhXK5CYZLuOSLHVDFWy68A1ys32V2xLV1VSo_b9k=.hash
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/B2aTlFceEHeBUJTKQ0AjaPEoqFL23PWG1IVX7lDviI8=.hash
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/9PwwhzlZ2PyTbEqtBc-qcjn-Vg7Njht1hZujZc-12AM=.hash
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/PIY1B6v1z8LZLzzljlh1nqhQzcW_4ZChzq5xBiVBt3Q=.hash
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/hbE8pRBvobWUTAwR7-LKwNzOKVo2TWCbes02qUuU6qk=.hash
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/nyyYEW_TIlu7hW_kXFUUX65jXoaEf7oXG71OSy8z-vw=.hash

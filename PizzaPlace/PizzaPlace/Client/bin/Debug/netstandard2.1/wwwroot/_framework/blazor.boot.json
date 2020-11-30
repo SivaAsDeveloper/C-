@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "PizzaPlace.Client.dll": "sha256-cqXpKIjPW4MsM8cXHgqcEF9GqqV5tI0sDDpzqOadVzU=",
+      "PizzaPlace.Client.dll": "sha256-B2aTlFceEHeBUJTKQ0AjaPEoqFL23PWG1IVX7lDviI8=",
       "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-Bs1Wrmh4ex9dTEIT0yCRF52N\/wOmsBDt457BHr0\/ssM=",
       "netstandard.dll": "sha256-\/zcPVM75OAY+joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=",
       "System.Xml.Linq.dll": "sha256-IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=",
@@ -37,7 +37,7 @@
       "Microsoft.AspNetCore.Components.dll": "sha256-PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=",
-      "PizzaPlace.Shared.dll": "sha256-yBAh24b9XLtjouUiLJngCFKZ9wIYjG7HWXHqabGBQ54=",
+      "PizzaPlace.Shared.dll": "sha256-PIY1B6v1z8LZLzzljlh1nqhQzcW+4ZChzq5xBiVBt3Q=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-FJ+rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=",
       "Microsoft.Extensions.DependencyInjection.dll": "sha256-oK1Bjv95fH+hSbogUkJE+xDAI203kJG6lL6Sm\/NuPWg=",
       "System.Text.Encodings.Web.dll": "sha256-Tqh1Da+iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod+uw4=",
@@ -60,8 +60,8 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "PizzaPlace.Client.pdb": "sha256-HT32foRfWqs9mzBYvmtO6R4KjuM\/BdBv1pazcEzvcFA=",
-      "PizzaPlace.Shared.pdb": "sha256-swaPqt6d4UZMcaXD8fDt51ZCkqO0RduonGD19xaGo+c="
+      "PizzaPlace.Client.pdb": "sha256-9PwwhzlZ2PyTbEqtBc\/qcjn\/Vg7Njht1hZujZc\/12AM=",
+      "PizzaPlace.Shared.pdb": "sha256-hbE8pRBvobWUTAwR7\/LKwNzOKVo2TWCbes02qUuU6qk="
     },
     "runtime": {
       "dotnet.3.2.0.js": "sha256-mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=",

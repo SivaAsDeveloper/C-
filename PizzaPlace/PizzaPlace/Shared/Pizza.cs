@@ -10,6 +10,7 @@ namespace PizzaPlace.Shared
         Spicy
     }
     public class Pizza{
+        public Pizza(){}
         //Properties of Pizza
         public int Id{get;}
         public string Name{get;}

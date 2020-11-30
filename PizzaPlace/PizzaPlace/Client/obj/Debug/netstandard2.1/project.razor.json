@@ -166,6 +166,372 @@
         }
       },
       {
+        "HashCode": -396996231,
+        "Kind": "Components.Component",
+        "Name": "PizzaPlace.Client.Pages.PizzaItem",
+        "AssemblyName": "PizzaPlace.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PizzaItem"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Pizza",
+            "TypeName": "PizzaPlace.Shared.Pizza",
+            "Metadata": {
+              "Common.PropertyName": "Pizza"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ButtonTitle",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "ButtonTitle"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ButtonClass",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "ButtonClass"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Selected",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<PizzaPlace.Shared.Pizza>",
+            "Metadata": {
+              "Common.PropertyName": "Selected",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PizzaPlace.Client.Pages.PizzaItem"
+        }
+      },
+      {
+        "HashCode": -736884932,
+        "Kind": "Components.Component",
+        "Name": "PizzaPlace.Client.Pages.PizzaItem",
+        "AssemblyName": "PizzaPlace.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PizzaPlace.Client.Pages.PizzaItem"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Pizza",
+            "TypeName": "PizzaPlace.Shared.Pizza",
+            "Metadata": {
+              "Common.PropertyName": "Pizza"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ButtonTitle",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "ButtonTitle"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ButtonClass",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "ButtonClass"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Selected",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<PizzaPlace.Shared.Pizza>",
+            "Metadata": {
+              "Common.PropertyName": "Selected",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PizzaPlace.Client.Pages.PizzaItem",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 2121621406,
+        "Kind": "Components.Component",
+        "Name": "PizzaPlace.Client.Pages.PizzaList",
+        "AssemblyName": "PizzaPlace.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PizzaList"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Menu",
+            "TypeName": "PizzaPlace.Shared.Menu",
+            "Metadata": {
+              "Common.PropertyName": "Menu"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Selected",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<PizzaPlace.Shared.Pizza>",
+            "Metadata": {
+              "Common.PropertyName": "Selected",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PizzaPlace.Client.Pages.PizzaList"
+        }
+      },
+      {
+        "HashCode": -1433024514,
+        "Kind": "Components.Component",
+        "Name": "PizzaPlace.Client.Pages.PizzaList",
+        "AssemblyName": "PizzaPlace.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PizzaPlace.Client.Pages.PizzaList"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Menu",
+            "TypeName": "PizzaPlace.Shared.Menu",
+            "Metadata": {
+              "Common.PropertyName": "Menu"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Selected",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<PizzaPlace.Shared.Pizza>",
+            "Metadata": {
+              "Common.PropertyName": "Selected",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PizzaPlace.Client.Pages.PizzaList",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -78676379,
+        "Kind": "Components.Component",
+        "Name": "PizzaPlace.Client.Pages.ShoppingBasket",
+        "AssemblyName": "PizzaPlace.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ShoppingBasket"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Basket",
+            "TypeName": "PizzaPlace.Shared.Basket",
+            "Metadata": {
+              "Common.PropertyName": "Basket"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "TotalPrice",
+            "TypeName": "System.Decimal",
+            "Metadata": {
+              "Common.PropertyName": "TotalPrice"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Selected",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Int32>",
+            "Metadata": {
+              "Common.PropertyName": "Selected",
+              "Components.EventCallback": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "GetPizzaFromId",
+            "TypeName": "System.Func<System.Int32, PizzaPlace.Shared.Pizza>",
+            "Metadata": {
+              "Common.PropertyName": "GetPizzaFromId",
+              "Components.DelegateSignature": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PizzaPlace.Client.Pages.ShoppingBasket"
+        }
+      },
+      {
+        "HashCode": -882030830,
+        "Kind": "Components.Component",
+        "Name": "PizzaPlace.Client.Pages.ShoppingBasket",
+        "AssemblyName": "PizzaPlace.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PizzaPlace.Client.Pages.ShoppingBasket"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Basket",
+            "TypeName": "PizzaPlace.Shared.Basket",
+            "Metadata": {
+              "Common.PropertyName": "Basket"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "TotalPrice",
+            "TypeName": "System.Decimal",
+            "Metadata": {
+              "Common.PropertyName": "TotalPrice"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Selected",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Int32>",
+            "Metadata": {
+              "Common.PropertyName": "Selected",
+              "Components.EventCallback": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "GetPizzaFromId",
+            "TypeName": "System.Func<System.Int32, PizzaPlace.Shared.Pizza>",
+            "Metadata": {
+              "Common.PropertyName": "GetPizzaFromId",
+              "Components.DelegateSignature": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PizzaPlace.Client.Pages.ShoppingBasket",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1568819859,
+        "Kind": "Components.Component",
+        "Name": "PizzaPlace.Client.Pages.InputWatcher",
+        "AssemblyName": "PizzaPlace.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "InputWatcher"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "FieldChanged",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
+            "Metadata": {
+              "Common.PropertyName": "FieldChanged",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PizzaPlace.Client.Pages.InputWatcher"
+        }
+      },
+      {
+        "HashCode": 1311019673,
+        "Kind": "Components.Component",
+        "Name": "PizzaPlace.Client.Pages.InputWatcher",
+        "AssemblyName": "PizzaPlace.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PizzaPlace.Client.Pages.InputWatcher"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "FieldChanged",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
+            "Metadata": {
+              "Common.PropertyName": "FieldChanged",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PizzaPlace.Client.Pages.InputWatcher",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1552507171,
         "Kind": "Components.Component",
         "Name": "PizzaPlace.Client.Pages.Index",
@@ -195,6 +561,143 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "PizzaPlace.Client.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1729050674,
+        "Kind": "Components.Component",
+        "Name": "PizzaPlace.Client.Pages.CustomerEntry",
+        "AssemblyName": "PizzaPlace.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CustomerEntry"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ButtonTitle",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "ButtonTitle"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ButtonClass",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "ButtonClass"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Customer",
+            "TypeName": "PizzaPlace.Shared.Customer",
+            "Metadata": {
+              "Common.PropertyName": "Customer"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Submit",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "Submit",
+              "Components.EventCallback": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "CustomerChanged",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<PizzaPlace.Shared.Customer>",
+            "Metadata": {
+              "Common.PropertyName": "CustomerChanged",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PizzaPlace.Client.Pages.CustomerEntry"
+        }
+      },
+      {
+        "HashCode": -325694043,
+        "Kind": "Components.Component",
+        "Name": "PizzaPlace.Client.Pages.CustomerEntry",
+        "AssemblyName": "PizzaPlace.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PizzaPlace.Client.Pages.CustomerEntry"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ButtonTitle",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "ButtonTitle"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ButtonClass",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "ButtonClass"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Customer",
+            "TypeName": "PizzaPlace.Shared.Customer",
+            "Metadata": {
+              "Common.PropertyName": "Customer"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Submit",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "Submit",
+              "Components.EventCallback": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "CustomerChanged",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<PizzaPlace.Shared.Customer>",
+            "Metadata": {
+              "Common.PropertyName": "CustomerChanged",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PizzaPlace.Client.Pages.CustomerEntry",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -10926,6 +11429,87 @@
         }
       },
       {
+        "HashCode": -1836075522,
+        "Kind": "Components.Bind",
+        "Name": "PizzaPlace.Client.Pages.CustomerEntry",
+        "AssemblyName": "PizzaPlace.Client",
+        "Documentation": "Binds the provided expression to the 'Customer' property and a change event delegate to the 'CustomerChanged' property of the component.",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CustomerEntry",
+            "Attributes": [
+              {
+                "Name": "@bind-Customer",
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ]
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Bind",
+            "Name": "@bind-Customer",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<PizzaPlace.Shared.Customer>",
+            "Documentation": "Binds the provided expression to the 'Customer' property and a change event delegate to the 'CustomerChanged' property of the component.",
+            "Metadata": {
+              "Common.DirectiveAttribute": "True",
+              "Common.PropertyName": "Customer"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Components.IsSpecialKind": "Components.Bind",
+          "Components.Bind.ValueAttribute": "Customer",
+          "Components.Bind.ChangeAttribute": "CustomerChanged",
+          "Common.TypeName": "PizzaPlace.Client.Pages.CustomerEntry"
+        }
+      },
+      {
+        "HashCode": -452579457,
+        "Kind": "Components.Bind",
+        "Name": "PizzaPlace.Client.Pages.CustomerEntry",
+        "AssemblyName": "PizzaPlace.Client",
+        "Documentation": "Binds the provided expression to the 'Customer' property and a change event delegate to the 'CustomerChanged' property of the component.",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PizzaPlace.Client.Pages.CustomerEntry",
+            "Attributes": [
+              {
+                "Name": "@bind-Customer",
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ]
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Bind",
+            "Name": "@bind-Customer",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<PizzaPlace.Shared.Customer>",
+            "Documentation": "Binds the provided expression to the 'Customer' property and a change event delegate to the 'CustomerChanged' property of the component.",
+            "Metadata": {
+              "Common.DirectiveAttribute": "True",
+              "Common.PropertyName": "Customer"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Components.IsSpecialKind": "Components.Bind",
+          "Components.Bind.ValueAttribute": "Customer",
+          "Components.Bind.ChangeAttribute": "CustomerChanged",
+          "Common.TypeName": "PizzaPlace.Client.Pages.CustomerEntry",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 931774755,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
@@ -11512,8 +12096,28 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/Pages/CustomerEntry.razor",
+      "TargetPath": "Pages\\CustomerEntry.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/Pages/ShoppingBasket.razor",
+      "TargetPath": "Pages\\ShoppingBasket.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/Shared/MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/Pages/PizzaList.razor",
+      "TargetPath": "Pages\\PizzaList.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/Pages/PizzaItem.razor",
+      "TargetPath": "Pages\\PizzaItem.razor",
       "FileKind": "component"
     },
     {

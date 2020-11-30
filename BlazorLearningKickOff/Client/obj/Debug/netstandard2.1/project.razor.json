@@ -8,131 +8,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -1276949568,
-        "Kind": "Components.Component",
-        "Name": "BlazorLearningKickOff.Client.Pages.GrandMother",
-        "AssemblyName": "BlazorLearningKickOff.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "GrandMother"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "ChildContent",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Metadata": {
-              "Common.PropertyName": "ChildContent",
-              "Components.ChildContent": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorLearningKickOff.Client.Pages.GrandMother"
-        }
-      },
-      {
-        "HashCode": -1139204140,
-        "Kind": "Components.Component",
-        "Name": "BlazorLearningKickOff.Client.Pages.GrandMother",
-        "AssemblyName": "BlazorLearningKickOff.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorLearningKickOff.Client.Pages.GrandMother"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "ChildContent",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Metadata": {
-              "Common.PropertyName": "ChildContent",
-              "Components.ChildContent": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorLearningKickOff.Client.Pages.GrandMother",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -245350786,
-        "Kind": "Components.ChildContent",
-        "Name": "BlazorLearningKickOff.Client.Pages.GrandMother.ChildContent",
-        "AssemblyName": "BlazorLearningKickOff.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ChildContent",
-            "ParentTag": "GrandMother"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "BlazorLearningKickOff.Client.Pages.GrandMother.ChildContent",
-          "Components.IsSpecialKind": "Components.ChildContent"
-        }
-      },
-      {
-        "HashCode": 1317533682,
-        "Kind": "Components.ChildContent",
-        "Name": "BlazorLearningKickOff.Client.Pages.GrandMother.ChildContent",
-        "AssemblyName": "BlazorLearningKickOff.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ChildContent",
-            "ParentTag": "BlazorLearningKickOff.Client.Pages.GrandMother"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "BlazorLearningKickOff.Client.Pages.GrandMother.ChildContent",
-          "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1249235206,
-        "Kind": "Components.Component",
-        "Name": "BlazorLearningKickOff.Client.Pages.GrandChild",
-        "AssemblyName": "BlazorLearningKickOff.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "GrandChild"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorLearningKickOff.Client.Pages.GrandChild"
-        }
-      },
-      {
-        "HashCode": -673597397,
-        "Kind": "Components.Component",
-        "Name": "BlazorLearningKickOff.Client.Pages.GrandChild",
-        "AssemblyName": "BlazorLearningKickOff.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorLearningKickOff.Client.Pages.GrandChild"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorLearningKickOff.Client.Pages.GrandChild",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 771383820,
         "Kind": "Components.Component",
         "Name": "BlazorLearningKickOff.Client.Pages.Alert",
@@ -241,6 +116,39 @@
         }
       },
       {
+        "HashCode": 1968103348,
+        "Kind": "Components.Component",
+        "Name": "BlazorLearningKickOff.Client.Pages.Counter",
+        "AssemblyName": "BlazorLearningKickOff.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorLearningKickOff.Client.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -1133293036,
+        "Kind": "Components.Component",
+        "Name": "BlazorLearningKickOff.Client.Pages.Counter",
+        "AssemblyName": "BlazorLearningKickOff.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorLearningKickOff.Client.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorLearningKickOff.Client.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 2014682144,
         "Kind": "Components.Component",
         "Name": "BlazorLearningKickOff.Client.Pages.FetchData",
@@ -274,35 +182,127 @@
         }
       },
       {
-        "HashCode": 1968103348,
+        "HashCode": 1249235206,
         "Kind": "Components.Component",
-        "Name": "BlazorLearningKickOff.Client.Pages.Counter",
+        "Name": "BlazorLearningKickOff.Client.Pages.GrandChild",
         "AssemblyName": "BlazorLearningKickOff.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Counter"
+            "TagName": "GrandChild"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorLearningKickOff.Client.Pages.Counter"
+          "Common.TypeName": "BlazorLearningKickOff.Client.Pages.GrandChild"
         }
       },
       {
-        "HashCode": -1133293036,
+        "HashCode": -673597397,
         "Kind": "Components.Component",
-        "Name": "BlazorLearningKickOff.Client.Pages.Counter",
+        "Name": "BlazorLearningKickOff.Client.Pages.GrandChild",
         "AssemblyName": "BlazorLearningKickOff.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorLearningKickOff.Client.Pages.Counter"
+            "TagName": "BlazorLearningKickOff.Client.Pages.GrandChild"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorLearningKickOff.Client.Pages.Counter",
+          "Common.TypeName": "BlazorLearningKickOff.Client.Pages.GrandChild",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1276949568,
+        "Kind": "Components.Component",
+        "Name": "BlazorLearningKickOff.Client.Pages.GrandMother",
+        "AssemblyName": "BlazorLearningKickOff.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "GrandMother"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorLearningKickOff.Client.Pages.GrandMother"
+        }
+      },
+      {
+        "HashCode": -1139204140,
+        "Kind": "Components.Component",
+        "Name": "BlazorLearningKickOff.Client.Pages.GrandMother",
+        "AssemblyName": "BlazorLearningKickOff.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorLearningKickOff.Client.Pages.GrandMother"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorLearningKickOff.Client.Pages.GrandMother",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -245350786,
+        "Kind": "Components.ChildContent",
+        "Name": "BlazorLearningKickOff.Client.Pages.GrandMother.ChildContent",
+        "AssemblyName": "BlazorLearningKickOff.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "GrandMother"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "BlazorLearningKickOff.Client.Pages.GrandMother.ChildContent",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 1317533682,
+        "Kind": "Components.ChildContent",
+        "Name": "BlazorLearningKickOff.Client.Pages.GrandMother.ChildContent",
+        "AssemblyName": "BlazorLearningKickOff.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "BlazorLearningKickOff.Client.Pages.GrandMother"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "BlazorLearningKickOff.Client.Pages.GrandMother.ChildContent",
+          "Components.IsSpecialKind": "Components.ChildContent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -628,6 +628,39 @@
         }
       },
       {
+        "HashCode": -1329969972,
+        "Kind": "Components.Component",
+        "Name": "BlazorLearningKickOff.Client.App",
+        "AssemblyName": "BlazorLearningKickOff.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorLearningKickOff.Client.App"
+        }
+      },
+      {
+        "HashCode": -155933763,
+        "Kind": "Components.Component",
+        "Name": "BlazorLearningKickOff.Client.App",
+        "AssemblyName": "BlazorLearningKickOff.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorLearningKickOff.Client.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorLearningKickOff.Client.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -2092497766,
         "Kind": "Components.Component",
         "Name": "BlazorLearningKickOff.Client.Shared.MainLayout",
@@ -802,39 +835,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorLearningKickOff.Client.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1329969972,
-        "Kind": "Components.Component",
-        "Name": "BlazorLearningKickOff.Client.App",
-        "AssemblyName": "BlazorLearningKickOff.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorLearningKickOff.Client.App"
-        }
-      },
-      {
-        "HashCode": -155933763,
-        "Kind": "Components.Component",
-        "Name": "BlazorLearningKickOff.Client.App",
-        "AssemblyName": "BlazorLearningKickOff.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorLearningKickOff.Client.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorLearningKickOff.Client.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

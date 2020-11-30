@@ -161,6 +161,7 @@
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/PizzaPlace.Client.RazorComponent.input.cache
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/RazorDeclaration/App.razor.g.cs
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Index.razor.g.cs
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/PizzaItem.razor.g.cs
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/MainLayout.razor.g.cs
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/NavMenu.razor.g.cs
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/RazorDeclaration/_Imports.razor.g.cs
@@ -170,6 +171,7 @@
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/PizzaPlace.Client.RazorCoreGenerate.cache
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/Razor/App.razor.g.cs
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/Razor/Pages/Index.razor.g.cs
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/Razor/Pages/PizzaItem.razor.g.cs
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/Razor/Shared/MainLayout.razor.g.cs
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/Razor/Shared/NavMenu.razor.g.cs
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/Razor/_Imports.razor.g.cs
@@ -206,7 +208,7 @@
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=.hash
-/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/v5zuVEftexbmcbhQVzarUDnVkTVXYt4nMWUgXLuHlHI=.hash
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/yBAh24b9XLtjouUiLJngCFKZ9wIYjG7HWXHqabGBQ54=.hash
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/oK1Bjv95fH_hSbogUkJE_xDAI203kJG6lL6Sm-NuPWg=.hash
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash
@@ -227,7 +229,7 @@
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/Ln29mBcBilvxDYtq725dopT-MrNqqQgk3INFUv9oBIA=.hash
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/swaPqt6d4UZMcaXD8fDt51ZCkqO0RduonGD19xaGo_c=.hash
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
@@ -355,6 +357,12 @@
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/staticwebassets/PizzaPlace.Client.StaticWebAssets.xml
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/PizzaPlace.Client.dll
 /home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/PizzaPlace.Client.pdb
-/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/nnVXuNJHHvG2Ya40ZK68mdAKwS7oH6NexPPu-y2heFI=.hash
-/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/cqcsKa4HSANJs3KHWJ6Rhjebg6YekTUSaUOImghzGg4=.hash
-/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/gjKp-G1W8JMAAIcE8nUscr8vcKDNvAFrB-Brvz0fHKQ=.hash
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/CustomerEntry.razor.g.cs
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/PizzaList.razor.g.cs
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/ShoppingBasket.razor.g.cs
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/Razor/Pages/CustomerEntry.razor.g.cs
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/Razor/Pages/PizzaList.razor.g.cs
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/Razor/Pages/ShoppingBasket.razor.g.cs
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/cqXpKIjPW4MsM8cXHgqcEF9GqqV5tI0sDDpzqOadVzU=.hash
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/HT32foRfWqs9mzBYvmtO6R4KjuM-BdBv1pazcEzvcFA=.hash
+/home/codespace/workspace/C-/PizzaPlace/PizzaPlace/Client/obj/Debug/netstandard2.1/integrity/LJeVhXK5CYZLuOSLHVDFWy68A1ys32V2xLV1VSo_b9k=.hash
